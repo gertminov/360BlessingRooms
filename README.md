@@ -1,5 +1,7 @@
 ﻿# Segensräume VR
 
+SegensäumeVr ist eine Unity anwendung zum abspielen von 360° videos auf PicoVR-Brillen basieren auf [PicoXR video palyer template](https://github.com/picoxr/VideoPlayer)
+
 ## Funktion
 
 Die Videos auf der VideoSphere abgespielt, 2 sekunden bevor das video zu ende ist, wird ein Übergang zu schwarz getriggered (ControlCanvas/FadeToBlack)
